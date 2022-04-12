@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 12",
+      "picture": "https://somos.lojaiplace.com.br/wp-content/uploads/2021/04/apple_iphone-12-spring21_purple_04202021.jpg",
+      "storage": 3,
+      "price": 5999.99
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch ",
+      "picture": "https://cdn.accentuate.cloud/images/9412938/cyber_watch_purple_aluminium_metal_luxury_apple_watch_case_1.jpg?v=1600495115268",
+      "storage": 4,
+      "price": 3450.99
+    },
+    {
+      "id": 3,
+      "name": "IPad Mini",
+      "picture": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-11-202104-thumb-1?wid=282&hei=240&fmt=jpeg&qlt=90&.v=1617323480000",
+      "storage": 5,
+      "price": 1250.50
+    },
+    {
+      "id": 4,
+      "name": "MacBook",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VQ39-knLeRIC1OYfiMD59b58YTg77jmH8w&usqp=CAU",
+      "storage": 3,
+      "price": 50000.00
+    }
+  ]
+}
